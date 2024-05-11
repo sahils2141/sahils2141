@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel and DSA.**
 
-- 👨‍💻 All of my projects are available at [https://singular-puppy-f3bbd2.netlify.app/](https://singular-puppy-f3bbd2.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://app-sahil.netlify.app/)
 
 - 📝 I regularly write articles on [https://asaligyan.in/](https://asaligyan.in/)
 
