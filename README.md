@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://asaligyan.in/](https://asaligyan.in/)
 
-- 📫 How to reach me **sharmasahil1880@gmail.com**
+- 📫 Text me **sharmasahil1880@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
